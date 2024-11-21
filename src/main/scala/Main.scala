@@ -8,6 +8,8 @@ import Day3.getTheDecimalValueOfBinary
 import Day3.dayThreeSecond
 import Day4.dayFourFirst
 import Day4.dayFourSecond
+import Day5.dayFiveFirst
+import Day5.dayFiveSecond
 
 @main def hello(): Unit =
   println(s"DAY1-1 $dayOneFirst")
@@ -18,3 +20,5 @@ import Day4.dayFourSecond
   println(s"DAY3-2 $dayThreeSecond")
   println(s"DAY4-1 $dayFourFirst")
   println(s"DAY4-2 $dayFourSecond")
+  println(s"DAY5-1 $dayFiveFirst")
+  println(s"DAY5-2 $dayFiveSecond")
